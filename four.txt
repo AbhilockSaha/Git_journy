@@ -5,5 +5,7 @@ my name is abhilock
 print('hello")
 =======
 new change apear
+sweta
 
+i don't know why
 >>>>>>> main

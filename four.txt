@@ -5,6 +5,7 @@ my name is abhilock
 print('hello")
 =======
 new change apear
+<<<<<<< HEAD
 sweta
 
 i don't know why
